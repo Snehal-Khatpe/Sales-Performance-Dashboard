@@ -6,7 +6,7 @@ The customer dashboard summarizes customer data, including total number of custo
 It examines monthly customer trends, illustrates customer distribution by order frequency, and lists the top 10 customers by profit, along with relevant details.
 
 ### Link to the dashboard: 
-https://public.tableau.com/views/SalesPerformance_17121703430230/SalesDashboard?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link
+_https://public.tableau.com/views/SalesPerformance_17121703430230/SalesDashboard?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link_
 
 ### Detailed user story is as below:
 Sales Dashboard Requirements:
